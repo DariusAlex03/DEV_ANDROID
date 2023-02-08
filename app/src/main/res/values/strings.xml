@@ -1,0 +1,6 @@
+<resources>
+    <string name="hello_world" translatable="false">Hello world of Farida !</string>
+    <string name="title_bouton_ok" translatable="false">Click the button and see !</string>
+    <string name="mess_after_click_ok" translatable="false">! You just clic in OK button !</string>
+    <string name="app_name">TestInstallation</string>
+</resources>
